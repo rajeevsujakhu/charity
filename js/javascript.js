@@ -35,6 +35,7 @@ $(document).ready(function(){
             items:6,
             loop:true,
             margin:10,
+            autoplay:true,
         });
       });
 });
